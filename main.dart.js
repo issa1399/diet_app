@@ -10358,7 +10358,7 @@ var $async$aA7=A.A(function(a,b){if(a===1)return A.B(b,r)
 while(true)switch(s){case 0:if($.a9==null)A.amH()
 $.a9.toString
 s=2
-return A.r(A.akI("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Iml5bmpmZXBtYWtianFseXFic2l4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzczNzk3NzUsImV4cCI6MjA5Mjk1NTc3NX0.AT-GrDeveY9S_J54r8SpgGzmhu1lhhx3TifTPoPQ4E8",!1,"https://iynjfepmakbjqlyqbsix.supabase.co"),$async$aA7)
+return A.r(A.akI("your-anon-key",!1,"https://your-project.supabase.co"),$async$aA7)
 case 2:if($.a9==null)A.amH()
 q=$.a9
 q.toString
